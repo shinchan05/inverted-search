@@ -1,0 +1,7 @@
+#7;hi;1;man.txt;1;#
+#7;here;1;c.txt;1;#
+#8;id;1;man.txt;1;#
+#12;manju;1;c.txt;1;#
+#13;not;1;c.txt;1;#
+#19;this;1;man.txt;1;#
+#22;world;1;man.txt;1;#

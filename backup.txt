@@ -1,0 +1,4 @@
+#7;hi;2;man.txt;2;c.txt;1;#
+#7;hlo;2;man.txt;1;c.txt;1;#
+#12;manju;2;man.txt;1;c.txt;2;#
+#22;where;1;man.txt;1;#
